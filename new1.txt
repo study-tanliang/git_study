@@ -1,4 +1,4 @@
 hello git
 
 my master
-modify 001
+modify 001 creating a new branch is quick & simple
